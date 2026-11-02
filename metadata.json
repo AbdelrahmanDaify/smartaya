@@ -1,0 +1,8 @@
+{
+  "name": "مساعد الدراسة الذكي - AI Study Assistant",
+  "description": "تطبيق ذكي لتحويل الملاحظات اليدوية ومستندات المحاضرات إلى ملخصات وأسئلة دراسية منظمة وجاهزة للمذاكرة والتصدير بصيغة PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
